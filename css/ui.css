@@ -5,3 +5,11 @@
 .visual .nav ul li.logo{padding:0;}
 .visual .nav a{color:#FFF;}
 .visual .content{font-size:100px; color:#fff; position:absolute; top:50%; transform:translateY(-50%); font-family: "MontserratBold";}
+
+
+.whatwedo{background:#b7e3b9; padding-top: 80px; text-align: center;}
+.whatwedoTop div{display: flex; margin-top: 50px;}
+.whatwedoTop dl{display:flex; flex-direction: column; justify-content: center;}
+.whatwedoTop dt{margin:33px 0px 23px 0px;}
+.whatwedoTop dd{line-height: 22px;}
+/* .whatwedoTop dl img{max-width:100%; display:inline-block;} */

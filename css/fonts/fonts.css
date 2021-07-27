@@ -10,3 +10,9 @@
     font-weight: 400;
     src: url(Montserrat/Montserrat-Bold.ttf) format("truetype");
 }
+@font-face{
+    font-family: "OpenSansR";
+    font-style:normal;
+    font-weight: 400;
+    src: url(Open_Sans/OpenSans-Regular.ttf) format("truetype");
+}
