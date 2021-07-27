@@ -1,0 +1,7 @@
+.visual .container{height:100%; position:relative;}
+.visual .nav{padding:0px 92px 0px 92px; font-size:14px;}
+.visual .nav ul{display:flex; justify-content: space-between;}
+.visual .nav ul li{padding-top:57px;}
+.visual .nav ul li.logo{padding:0;}
+.visual .nav a{color:#FFF;}
+.visual .content{font-size:100px; color:#fff; position:absolute; top:50%; transform:translateY(-50%); font-family: "MontserratBold";}
