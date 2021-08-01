@@ -13,3 +13,14 @@
 .whatwedoTop dt{margin:33px 0px 23px 0px;}
 .whatwedoTop dd{line-height: 22px;}
 /* .whatwedoTop dl img{max-width:100%; display:inline-block;} */
+
+.box{padding:20px; border:1px solid #ccc; display:inline-block; margin:40px; position:relative;}
+.box:after{
+    content: ''; position:absolute; 
+    width:0; height:0; 
+    /* border:10px solid red; */
+    border-width:10px;
+    border-style:solid;
+    border-color: transparent transparent transparent #ccc;
+    
+    left:100%; top:50%; transform:translateY(-50%);}
