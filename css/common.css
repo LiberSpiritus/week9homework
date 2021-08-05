@@ -11,7 +11,7 @@ h2{font-size:22px;}
 dt{font-size:18px;}
 dd{font-size:14px; font-family: "OpenSansR";}
 
-.visuallyHidden {
+.vH {
     border: 0;
     padding: 0;
     margin: 0;
